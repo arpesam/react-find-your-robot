@@ -2,6 +2,7 @@ import React from 'react';
 import { robots } from './robots';
 import CardList from './Card.list.jsx';
 import SearchBox from './SearchBox.jsx';
+import './App.css';
 
 
 
@@ -24,7 +25,7 @@ class App extends React.Component {
     })
     return (
       <div className='tc'>
-        <h1>RoboFriends</h1>
+        <h1 className="f2">RoboFriends</h1>
         <SearchBox searchChange={this.onSearchChange} />
         <CardList robots={filteredRobots} />
       </div>
