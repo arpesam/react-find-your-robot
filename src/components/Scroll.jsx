@@ -1,7 +1,7 @@
 import React from 'react';
 
 const customStyle = {
-  height: '600px',
+  height: '2000px',
   overflowY: 'scroll',
   border: '2px solid black',
 }
