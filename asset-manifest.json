@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-find-your-robot/static/css/main.9a7ed5be.chunk.css",
+    "main.js": "/react-find-your-robot/static/js/main.14e8ae9b.chunk.js",
+    "main.js.map": "/react-find-your-robot/static/js/main.14e8ae9b.chunk.js.map",
+    "runtime-main.js": "/react-find-your-robot/static/js/runtime-main.05d07369.js",
+    "runtime-main.js.map": "/react-find-your-robot/static/js/runtime-main.05d07369.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/react-find-your-robot/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.6451c345.chunk.js": "/react-find-your-robot/static/js/2.6451c345.chunk.js",
+    "static/js/2.6451c345.chunk.js.map": "/react-find-your-robot/static/js/2.6451c345.chunk.js.map",
+    "index.html": "/react-find-your-robot/index.html",
+    "precache-manifest.5de57dfabbd91fc2096991a416239019.js": "/react-find-your-robot/precache-manifest.5de57dfabbd91fc2096991a416239019.js",
+    "service-worker.js": "/react-find-your-robot/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/react-find-your-robot/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.9a7ed5be.chunk.css.map": "/react-find-your-robot/static/css/main.9a7ed5be.chunk.css.map",
+    "static/js/2.6451c345.chunk.js.LICENSE.txt": "/react-find-your-robot/static/js/2.6451c345.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-find-your-robot/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05d07369.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.6451c345.chunk.js",
+    "static/css/main.9a7ed5be.chunk.css",
+    "static/js/main.14e8ae9b.chunk.js"
+  ]
+}
