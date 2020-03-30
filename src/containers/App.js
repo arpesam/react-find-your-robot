@@ -34,7 +34,7 @@ class App extends React.Component {
     return !robots.length
       ? <h1 className="tc mv6">Loading...</h1>
       : <div className='tc'>
-          <h1 className="f2">RoboFriends</h1>
+          <h1 className="f2">Find your robot</h1>
           <SearchBox searchChange={this.onSearchChange} />
           <Scroll>
             <ErrorBoundry>
