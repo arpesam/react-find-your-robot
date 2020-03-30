@@ -2,7 +2,7 @@
   "name": "react-robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arpesam.github.io/react-find-a-robot",
+  "homepage": "https://arpesam.github.io/react-find-your-robot",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
