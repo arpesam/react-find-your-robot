@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "faf78ab12469c69573ff602a91cef3ef",
+    "revision": "3e66e2a4c57bdb1c49118e3fc6a90b75",
     "url": "/react-find-your-robot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-find-your-robot/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "a1f2530b5cf0011516da",
+    "revision": "00388c6396b4ee033843",
     "url": "/react-find-your-robot/static/css/main.9a7ed5be.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-find-your-robot/static/js/2.6451c345.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1f2530b5cf0011516da",
-    "url": "/react-find-your-robot/static/js/main.14e8ae9b.chunk.js"
+    "revision": "00388c6396b4ee033843",
+    "url": "/react-find-your-robot/static/js/main.0fab4cf8.chunk.js"
   },
   {
     "revision": "c205c6ddf5548eb73d81",
