@@ -2,13 +2,13 @@ version: 2
 jobs: 
   build1:
     docker:
-      - image: circleci/rubi:2.4.1
+      - image: circleci/node:10.16
     steps:
       - checkout
       - run: echo "running circle ci"
   build2:
     docker:
-      - image: circleci/rubi:2.4.1
+      - image: circleci/node:10.16
     steps:
       - checkout
       - run: echo "running circle ci second step"
