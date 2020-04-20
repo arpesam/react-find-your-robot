@@ -1,0 +1,20 @@
+version: 2
+jobs: 
+  build1:
+    docker:
+      - image: circleci/rubi:2.4.1
+    steps:
+      - checkout
+      - run: echo "running circle ci"
+  build2:
+    docker:
+      - image: circleci/rubi:2.4.1
+    steps:
+      - checkout
+      - run: echo "running circle ci second step"
+  workflow: 
+    version: 2
+    two_builds: 
+      jobs:
+        - build1
+        - build2
