@@ -12,9 +12,9 @@ jobs:
     steps:
       - checkout
       - run: echo "running circle ci second step"
-  workflow: 
-    version: 2
-    two_builds: 
-      jobs:
-        - build1
-        - build2
+workflows: 
+  version: 2
+  two_builds: 
+    jobs:
+      - build1
+      - build2
